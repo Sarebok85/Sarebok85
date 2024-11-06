@@ -30,7 +30,7 @@ In addition, I have recently obtained the certification as a Scrum Master, which
 
 ## 📬 Get in Touch
 
-  - Connect with me on [Linkedin]([https://twitter.com/introvertedbot](https://www.linkedin.com/in/%C3%A1lvaro-romero-ayala-82226412b/))
+  - Connect with me on [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/%C3%A1lvaro-romero-ayala-82226412b/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology and Agile together. 🚀
 
