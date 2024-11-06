@@ -1,45 +1,38 @@
 # Hi, I'm Álvaro! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+Passionate about web programming with a solid experience in a wide range of languages ​​and technologies. My main focus is on both BackEnd and FrontEnd development, allowing me to create complete and efficient solutions.
+In addition, I have recently obtained the certification as a Scrum Master, which has allowed me to combine my technical skills with agile methodologies. This enables me to lead development teams, improve collaboration and ensure the delivery of high-quality projects on time and in a timely manner.
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Sarebok85&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+  - 👷 I'm currently working in Capgemini for SecuritasDirect as ScrumMaster.
+  - 📝 I worked several years as Tech Lead for Leroy Merlin, Securitas Direct or Repsol.
+  - ♥️ I'm father of one girl.
 
 ## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
+  - [About Agile and Scrum](https://www.linkedin.com/in/%C3%A1lvaro-romero-ayala-82226412b/recent-activity/articles/)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=spring,java,kafka,angular,jenkins,kubernetes,mongodb)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+  - 🧑‍🎓 Confluent Certified Developer for Apache Kafka (CCDAK).
+  - 🧑‍🎓 B2 First Cambridge.
+  - 🔎 I'm learning about Lean Management.
 
- ## 🏆 Achievements
+## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
+  - 🌟 PSM1 - Scrum.org
+  - 🌟 PSM2 - Scrum.org
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+  - Connect with me on [Linkedin]([https://twitter.com/introvertedbot](https://www.linkedin.com/in/%C3%A1lvaro-romero-ayala-82226412b/))
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
+Thanks for stopping by! Let's connect and explore the fascinating world of technology and Agile together. 🚀
 
 <!--
 
