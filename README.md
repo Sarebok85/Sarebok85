@@ -7,7 +7,7 @@ In addition, I have recently obtained the certification as a Scrum Master, which
 
 ## 🚀 About Me
 
-  - 👷 I'm currently working in Capgemini for SecuritasDirect as ScrumMaster.
+  - 👷 I'm currently working in Hefame like Digital Channel Lead.
   - 📝 I worked several years as Tech Lead for Leroy Merlin, Securitas Direct or Repsol.
   - ♥️ I'm father of one girl.
 
